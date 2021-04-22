@@ -1,0 +1,3 @@
+Is html easier to understand than python?
+Will we always have to open files through the terminal/command line?
+Is there a difference between java and javascript?
